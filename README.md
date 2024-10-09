@@ -193,6 +193,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [GitGud](https://gitgud.io) — Unlimited private and public repositories. Free forever. Powered by GitLab & Sapphire. CI/CD not provided.
   * [GitHub](https://github.com/) — Unlimited public repositories and unlimited private repositories (with unlimited collaborators). Includes CI/CD, Development Environment, Static Hosting, Package and Container hosting, Project management and AI Copilot
   * [gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with up to 5 collaborators. Includes CI/CD, Static Hosting, Container Registry, Project Management and Issue Tracking
+  * [Harness Open Source](https://developer.harness.io/docs/open-source) - An all-in-one open-source platform that integrates source code management, CI/CD pipelines, hosted development environments, and artifact management.
   * [framagit.org](https://framagit.org/) — Framagit is the software forge of Framasoft based on the Gitlab software includes CI, Static Pages, Project pages and Issue tracking.
   * [heptapod.net](https://foss.heptapod.net/) — Heptapod is a friendly fork of GitLab Community Edition providing support for Mercurial
   * [ionicframework.com](https://ionicframework.com/appflow) - Repo and tools to develop applications with Ionic; also you have an ionic repo
